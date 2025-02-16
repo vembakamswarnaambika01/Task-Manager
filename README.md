@@ -1,3 +1,4 @@
+![Screenshot (269)](https://github.com/user-attachments/assets/86f8e945-c4be-438f-a453-afb24629f119)
 # Task Manager 📝
 
 A simple and interactive task management web app that allows users to add, complete, and delete tasks effortlessly.
